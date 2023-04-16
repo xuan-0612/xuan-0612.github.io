@@ -84,19 +84,17 @@ author:
   avatar           : "me.png"
   bio              : "Shanghai University"
   location         : "Shanghai China"
-  employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  Email            : "wqx@shu.edu.cn"
+  WeCaht           : "images/wechat.png"
+  School Website   : "https://www.shu.edu.cn/"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
-  facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "xaun-0612.github.io"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +107,6 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
