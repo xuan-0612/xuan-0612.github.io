@@ -10,7 +10,7 @@ redirect_from:
 
 我是2022级上海大学计算机科学与技术专业的硕士研究生，NLP方向。<br>
 CV：[点击链接](/files/layoutlmv3.pdf)<br>
-Email:wqx@shu.edu.cn <br>
+Email: wqx@shu.edu.cn <br>
 WeChat：[点击链接](images/wechat.png)<br>
 
 
