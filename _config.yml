@@ -85,7 +85,7 @@ author:
   bio              : "Shanghai University"
   location         : "Shanghai China"
   Email            : "wqx@shu.edu.cn"
-  WeCaht           : https://github.com/xuan-0612/xuan-0612.github.io/blob/1573ce3aa53b1b34e00c9268652195206a1ad2e7/images/wechat.png
+  WeCaht           : "https://github.com/xuan-0612/xuan-0612.github.io/blob/1573ce3aa53b1b34e00c9268652195206a1ad2e7/images/wechat.png"
   School Website   : "https://www.shu.edu.cn/"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   foursquare       :
-  github           : "https://github.com/xuan-0612/xuan-0612"
+  github           : "xuan-0612"
   google_plus      :
   keybase          :
   instagram        :
