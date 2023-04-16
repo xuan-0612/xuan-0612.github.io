@@ -10,10 +10,9 @@ redirect_from:
 
 我是2022级上海大学计算机科学与技术专业的硕士研究生，
 
-[CV](https://github.com/xuan-0612/xuan-0612.github.io/blob/d6c4e171cb5ea80118715713f8ac9d7ddc03c2e5/files/layoutlmv3.pdf)
-
+CV：[点击链接](https://github.com/xuan-0612/xuan-0612.github.io/blob/d6c4e171cb5ea80118715713f8ac9d7ddc03c2e5/files/layoutlmv3.pdf)
 Email:wqx@shu.edu.cn
-[Wechat](https://github.com/xuan-0612/xuan-0612.github.io/blob/d6c4e171cb5ea80118715713f8ac9d7ddc03c2e5/images/wechat.png)
+WeChat：[点击链接](https://github.com/xuan-0612/xuan-0612.github.io/blob/d6c4e171cb5ea80118715713f8ac9d7ddc03c2e5/images/wechat.png)
 
 
 A data-driven personal website
