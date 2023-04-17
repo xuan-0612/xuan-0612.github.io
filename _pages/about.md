@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-&emsp;&emsp; I am a 2022 graduate student of computer science and technology from Shanghai University, graduated from Northeast Petroleum University with a bachelor's degree in computer science and technology, and successfully came to Shanghai University through graduate recommendation exemption. The current research direction is visual rich document understanding based on human reading order.<br>
+&emsp;&emsp; I am a 2022 graduate student of computer science and technology from Shanghai University, graduated from Northeast Petroleum University(2018-2022) with a bachelor's degree in computer science and technology, and successfully came to Shanghai University through graduate recommendation exemption. The current research direction is visual rich document understanding based on human reading order.<br>
  
 **Hobbies and interests:** In my spare time, I like to learn about history through books or videos, and occasionally play games. In terms of sports, swimming is ok, table tennis, badminton is so-so.<br>
 
