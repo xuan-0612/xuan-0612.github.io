@@ -15,6 +15,4 @@ redirect_from:
 **Future plan:**   Find a job you like if you meet the requirements for a master's degree.<br>
 
 Welcome to contact younger students！<br>
-
-
-
+**WeChat**:[点击链接](images/wechat.png)
